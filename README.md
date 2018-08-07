@@ -1,6 +1,11 @@
 # cython-manager
 Console util for cython.
 
+## Installation
+```sh
+pip install cython-manager
+```
+
 ## Getting started
 
 Create a project folder:
