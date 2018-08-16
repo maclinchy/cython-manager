@@ -41,9 +41,9 @@ int mul(int first_num, int second_num) {
 #ifndef TEST_
 #define TEST_
 
-int C_sum(int first_num, int second_num);
-int C_mul(int first_num, int second_num);
-void C_hello();
+int sum(int first_num, int second_num);
+int mul(int first_num, int second_num);
+void hello();
 
 #endif // TEST_
 ```
